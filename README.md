@@ -1,1 +1,1 @@
-# recipe-page-component
+# Recipe Page Component
